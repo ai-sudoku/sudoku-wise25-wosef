@@ -1,6 +1,6 @@
 % Please insert the names and email addresses of the group members:
 % Josef Trömer, josef.troemer@uni-potsdam.de
-%
+% Philip Wojahn, wojahn@uni-potsdam.de
 
 subgrid_size(3).
 
